@@ -58,8 +58,6 @@
 
 ---
 
-## 👤 Créditos
-
 <div align="center">
 
 <br/>
