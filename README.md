@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Baileys-00FFE0?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </div><br/><div align="center">
   <img src="https://img.shields.io/badge/creador-LEONARDO-00ffe0?style=flat-square"/>
