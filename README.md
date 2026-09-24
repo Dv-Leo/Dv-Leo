@@ -6,7 +6,9 @@
   <img src="https://img.shields.io/badge/CREADOR-LEONARDO-00ffe0?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/AÑO-2026-00ff88?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/WHATSAPP-BOTS-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</div>---
+</div>
+
+---
 
 🤖 MIS BOTS
 
