@@ -16,7 +16,9 @@
 
 Creado por LEONARDO • 2026
 
-</div>---
+</div>
+
+---
 
 <div align="center">👹 ALASTOR-WA-BOT
 
