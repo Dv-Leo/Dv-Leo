@@ -98,7 +98,6 @@ Tecnología| Uso
 
 ⭐ Sobre el proyecto
 
-Este perfil reúne los proyectos de automatización para WhatsApp desarrollados por LEONARDO durante 2026.
 
 Hinata-Bot y Alastor-WA-Bot representan dos proyectos independientes enfocados en ofrecer diferentes herramientas y sistemas automatizados para usuarios y comunidades de WhatsApp.
 
