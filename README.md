@@ -28,7 +28,9 @@ Creado por LEONARDO • 2026
 
 Creado por LEONARDO • 2026
 
-</div>---
+</div>
+
+---
 
 👨‍💻 LEONARDO
 
@@ -38,7 +40,9 @@ Creado por LEONARDO • 2026
 
 🌸 Hinata-Bot   •   👹 Alastor-WA-Bot
 
-</div>---
+</div>
+
+---
 
 <div align="center">⚡ LEONARDO ⚡
 
