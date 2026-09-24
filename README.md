@@ -34,10 +34,6 @@
 | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> | Sistema de control de versiones para clonar el repo. |
 | <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white"/> | Necesario para stickers, conversiones y todo lo multimedia. |
 
-## ⭐ Apoyo al proyecto
-
-Si el proyecto te sirve, dejá una estrella — ayuda un montón al desarrollo continuo.
-
 <div align="center">
   <a href="https://github.com/Axelixx09/zenbot-base">
     <img src="https://img.shields.io/github/stars/Axelix09/zenbot-base?style=for-the-badge&color=00ffe0&labelColor=0d0d0d&logo=github&logoColor=white" alt="stars"/>
