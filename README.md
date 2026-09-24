@@ -62,8 +62,6 @@
 
 <div align="center">
 
-Base desarrollada por **AXELDEV09**
-
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=2000&color=00FFE0&center=true&vCenter=true&width=400&lines=Z%CE%9EN-BOT+%E2%80%A2+AXELDEV09+%C2%A9+2026" alt="footer"/>
