@@ -89,31 +89,6 @@ npm start
 > En el primer inicio, si `usePairingCode` está activado, el bot pedirá tu número (sin `+`). Se generará un código de 8 dígitos para ingresar en **WhatsApp → Dispositivos vinculados**.
 
 ---
-
-## ⚙️ Configuración inicial
-
-Abrí `config.js` con nano:
-
-```bash
-nano config.js
-```
-
-Buscá y editá `ownerNumber`:
-
-```js
-const config = {
-  ownerNumber: ['5491112345678'], // tu número completo sin el +
-}
-```
-
-Guardá con `Ctrl+O`, salí con `Ctrl+X`, y reiniciá:
-
-```bash
-npm start
-```
-
----
-
 ## ⭐ Apoyo al proyecto
 
 Si el proyecto te sirve, dejá una estrella — ayuda un montón al desarrollo continuo.
