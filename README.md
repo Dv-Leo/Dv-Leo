@@ -34,61 +34,6 @@
 | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> | Sistema de control de versiones para clonar el repo. |
 | <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white"/> | Necesario para stickers, conversiones y todo lo multimedia. |
 
----
-
-## 🚀 Instalación (Ejemplo para Termux)
-
-### 1 — Actualizar el entorno e instalar dependencias (Ejemplo con Termux)
-
-```bash
-pkg update && pkg upgrade
-pkg install git nodejs yarn ffmpeg -y
-```
-
----
-
-### 2 — Configurar acceso al almacenamiento (Específico de Termux)
-
-> ⚠️ Paso obligatorio para poder trabajar en `/sdcard` desde Termux.
-
-```bash
-termux-setup-storage
-```
-
-Cuando aparezca el popup de permisos → tocá **Permitir**. Esto habilita el acceso a `/sdcard` y todo tu almacenamiento interno.
-
----
-
-### 3 — Clonar el repositorio
-
-```bash
-git clone https://github.com/Axelix09/zenbot-base.git /sdcard/zenbot-base
-cd /sdcard/zenbot-base
-```
-
-> 💡 El proyecto queda en tu almacenamiento interno, accesible desde cualquier explorador de archivos de Android.
-
----
-
-### 4 — Instalar dependencias de Node.js
-
-```bash
-npm install
-# o bien
-yarn install
-```
-
----
-
-### 5 — Iniciar el bot
-
-```bash
-npm start
-```
-
-> En el primer inicio, si `usePairingCode` está activado, el bot pedirá tu número (sin `+`). Se generará un código de 8 dígitos para ingresar en **WhatsApp → Dispositivos vinculados**.
-
----
 ## ⭐ Apoyo al proyecto
 
 Si el proyecto te sirve, dejá una estrella — ayuda un montón al desarrollo continuo.
