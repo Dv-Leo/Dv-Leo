@@ -39,7 +39,6 @@ Tecnologías principales:
 - 🟢 Node.js
 - 📱 WhatsApp Multi-Device
 - ⚡ Baileys
-- 🎵 FFmpeg
 - 🛠️ JavaScript
 
 ---
