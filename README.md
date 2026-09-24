@@ -20,7 +20,7 @@
 
 <div align="center">🤖 Creador y desarrollador de bots de WhatsApp
 
-## Hola soy leo, me gusta programar, jugar Minecraft y ver películas de terror, no tengo mucho tiempo como programador pero tengo fe en mi mismo♥️
+## 𝘏𝘰𝘭𝘢 𝘴𝘰𝘺 𝘭𝘦𝘰, 𝘮𝘦 𝘨𝘶𝘴𝘵𝘢 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘢𝘳, 𝘫𝘶𝘨𝘢𝘳 𝘔𝘪𝘯𝘦𝘤𝘳𝘢𝘧𝘵 𝘺 𝘷𝘦𝘳 𝘱𝘦𝘭𝘪𝘤𝘶𝘭𝘢𝘴 𝘥𝘦 𝘵𝘦𝘳𝘳𝘰𝘳, 𝘯𝘰 𝘵𝘦𝘯𝘨𝘰 𝘮𝘶𝘤𝘩𝘰 𝘵𝘪𝘦𝘮𝘱𝘰 𝘤𝘰𝘮𝘰 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘢𝘥𝘰𝘳 𝘱𝘦𝘳𝘰 𝘵𝘦𝘯𝘨𝘰 𝘧𝘦 𝘦𝘯 𝘮𝘪 𝘮𝘪𝘴𝘮𝘰♥️ola soy leo, me gusta programar, jugar Minecraft y ver películas de terror, no tengo mucho tiempo como programador pero tengo fe en mi mismo♥️
 
 «⚡ Automatización • 🤖 Inteligencia • 📱 WhatsApp • 🚀 Desarrollo»
 
