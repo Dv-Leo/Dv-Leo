@@ -13,7 +13,9 @@
   <img src="https://img.shields.io/badge/año-2026-00ff88?style=flat-square"/>
   <img src="https://img.shields.io/badge/plataforma-WhatsApp-black?style=flat-square"/>
   <img src="https://img.shields.io/badge/estado-activo-00ff88?style=flat-square"/>
-</div>---
+</div>
+
+---
 
 👨‍💻 LEONARDO
 
@@ -23,7 +25,9 @@ LEONARDO es un creador de bots enfocado en desarrollar experiencias automatizada
 
 «⚡ Automatización • 🤖 Inteligencia • 📱 WhatsApp • 🚀 Desarrollo»
 
-</div>---
+</div>
+
+---
 
 🤖 Mis Bots
 
@@ -76,7 +80,9 @@ Tecnología| Uso
 🌸 Hinata-Bot| LEONARDO| 2026
 👹 Alastor-WA-Bot| LEONARDO| 2026
 
-</div>---
+</div>
+
+---
 
 💬 Comunidad
 
@@ -88,7 +94,9 @@ Tecnología| Uso
   <img src="https://img.shields.io/badge/Alastor--WA--Bot-8A2BE2?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Alastor-WA-Bot"/>
 </a></div><br/><div align="center">⚡ LEONARDO • BOT DEVELOPER • 2026 ⚡
 
-<img src="https://img.shields.io/badge/WhatsApp-Bot%20Developer-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></div>---
+<img src="https://img.shields.io/badge/WhatsApp-Bot%20Developer-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></div>
+
+---
 
 ⭐ Sobre el proyecto
 
