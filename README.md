@@ -1,57 +1,43 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&pause=2000&color=00FFE0&center=true&vCenter=true&width=600&height=80&lines=Z%CE%9EN-BOT+%F0%9F%A4%96;WhatsApp+Bot+Base;by+AXELDEV09" alt="ZΞN-BOT"/>
-</div>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&pause=2000&color=00FFE0&center=true&vCenter=true&width=700&height=80&lines=LEONARDO+%F0%9F%A4%96;CREADOR+DE+BOTS;2026+%E2%80%A2+BOT+DEVELOPER" alt="LEONARDO"/>
+</div><div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=2000&color=ffffff&center=true&vCenter=true&width=700&lines=Desarrollo+de+bots+para+WhatsApp+%E2%80%A2+2026" alt="subtitle"/>
+</div><br/><div align="center">
+  <img src="https://img.shields.io/badge/CREADOR-LEONARDO-00ffe0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AÑO-2026-00ff88?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/WHATSAPP-BOTS-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</div>---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=2000&color=ffffff&center=true&vCenter=true&width=600&lines=Base+profesional+para+bots+de+WhatsApp+%E2%80%A2+Baileys+Multi-Device" alt="subtitle"/>
-</div>
+🤖 MIS BOTS
 
-<br/>
+<div align="center">🌸 HINATA-BOT
 
-<div align="center">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</div>
+<img src="https://img.shields.io/badge/HINATA--BOT-ff69b4?style=for-the-badge&logo=whatsapp&logoColor=white"/><br/><br/>
 
-<br/>
+Creado por LEONARDO • 2026
 
-<div align="center">
-  <img src="https://img.shields.io/badge/estado-activo-00ff88?style=flat-square"/>
-  <img src="https://img.shields.io/badge/plataforma-Multiplataforma-black?style=flat-square&logoColor=00ffe0"/>
-  <img src="https://img.shields.io/badge/hecho%20por-AXELDEV09-00ffe0?style=flat-square"/>
-</div>
+</div>---
 
----
+<div align="center">👹 ALASTOR-WA-BOT
 
-## 📦 Requisitos previos
+<img src="https://img.shields.io/badge/ALASTOR--WA--BOT-8A2BE2?style=for-the-badge&logo=whatsapp&logoColor=white"/><br/><br/>
 
-| Herramienta | Descripción |
-|-------------|-------------|
-| <img src="https://img.shields.io/badge/Termux-000000?style=flat-square&logo=gnometerminal&logoColor=00ffe0"/> | Emulador de terminal para Android (Se recomienda instalar desde F-Droid). |
-| <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> | Entorno de ejecución JS. Se recomienda una versión moderna (≥18). |
-| <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> | Sistema de control de versiones para clonar el repo. |
-| <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white"/> | Necesario para stickers, conversiones y todo lo multimedia. |
+Creado por LEONARDO • 2026
 
-<div align="center">
-  <a href="https://github.com/Axelixx09/zenbot-base">
-    <img src="https://img.shields.io/github/stars/Axelix09/zenbot-base?style=for-the-badge&color=00ffe0&labelColor=0d0d0d&logo=github&logoColor=white" alt="stars"/>
-  </a>
-</div>
+</div>---
 
----
+👨‍💻 LEONARDO
 
-## 💬 Comunidad
+<div align="center"><img src="https://img.shields.io/badge/BOT%20CREATOR-00FFE0?style=flat-square"/>
+<img src="https://img.shields.io/badge/2026-00ff88?style=flat-square"/>
+<img src="https://img.shields.io/badge/WHATSAPP-25D366?style=flat-square&logo=whatsapp&logoColor=white"/><br/><br/>
 
-<div align="center">
+🌸 Hinata-Bot   •   👹 Alastor-WA-Bot
 
-<a href="https://whatsapp.com/channel/0029Vb6OR9O2v1IvoXO5oT2c">
-  <img src="https://img.shields.io/badge/Canal%20Oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Canal WhatsApp"/>
-</a>
-&nbsp;
-<a href="https://chat.whatsapp.com/L2i8cX4uDbxFht6oD2c2sf">
-  <img src="https://img.shields.io/badge/Grupo%20Oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Grupo WhatsApp"/>
-</a>
+</div>---
+
+<div align="center">⚡ LEONARDO ⚡
+
+"BOT DEVELOPER • 2026"
 
 </div>
