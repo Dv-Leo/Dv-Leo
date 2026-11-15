@@ -1,110 +1,82 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&pause=2000&color=00FFE0&center=true&vCenter=true&width=700&height=80&lines=LEONARDO+%F0%9F%A4%96;WhatsApp+Bot+Creator;Bots+%7C+Automation+%7C+2026" alt="LEONARDO"/>
-</div><div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=2000&color=ffffff&center=true&vCenter=true&width=700&lines=Creador+de+bots+de+WhatsApp+%E2%80%A2+Baileys+%E2%80%A2+Node.js+%E2%80%A2+Multi-Device" alt="subtitle"/>
-</div><br/><div align="center">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Baileys-00FFE0?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</div><br/><div align="center">
-  <img src="https://img.shields.io/badge/creador-LEONARDO-00ffe0?style=flat-square"/>
-  <img src="https://img.shields.io/badge/año-2026-00ff88?style=flat-square"/>
-  <img src="https://img.shields.io/badge/plataforma-WhatsApp-black?style=flat-square"/>
-  <img src="https://img.shields.io/badge/estado-activo-00ff88?style=flat-square"/>
-</div>
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=45&pause=1000&color=00FFE0&center=true&vCenter=true&width=800&height=100&lines=LEONARDO+%F0%9F%A4%96;BOT+DEVELOPER;WHATSAPP+AUTOMATION;WELCOME+TO+MY+PROFILE" width="100%"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=FF00FF&center=true&vCenter=true&width=800&lines=Node.js+%E2%80%A2+Baileys+%E2%80%A2+JavaScript;Creating+the+future+with+bots;Code.+Automate.+Innovate." width="100%"/><img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:101020,100:00FFE0&height=3&section=header" width="100%"/><img src="https://img.shields.io/badge/CREATOR-LEONARDO-00FFE0?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF88?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/YEAR-2026-FF00FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WHATSAPP-BOT%20DEVELOPER-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></div>---
+
+<div align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>👨‍💻 ABOUT ME
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FFE0&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Leonardo+%F0%9F%91%8B;WhatsApp+Bot+Developer;JavaScript+Enthusiast;Minecraft+Player+%F0%9F%8E%AE;Horror+Movie+Lover+%F0%9F%91%BB" /></div>Soy Leo, un desarrollador apasionado por la programación y la automatización.
+
+Me gusta programar, jugar Minecraft y ver películas de terror. Aunque todavía estoy aprendiendo y no tengo demasiado tiempo programando, tengo fe en mí mismo y muchas ganas de seguir mejorando. ❤️
+
+MI FILOSOFÍA:
+
+"⚡ CODE" → "🤖 CREATE" → "🚀 INNOVATE"
 
 ---
 
-👨‍💻 LEONARDO
+🤖 MY WHATSAPP BOTS
 
-<div align="center">🤖 Creador y desarrollador de bots de WhatsApp
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=MY+BOT+PROJECTS;TWO+PROJECTS.+ONE+PASSION." /></div>🌸 HINATA-BOT
 
-## 𝘏𝘰𝘭𝘢 𝘴𝘰𝘺 𝘭𝘦𝘰, 𝘮𝘦 𝘨𝘶𝘴𝘵𝘢 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘢𝘳, 𝘫𝘶𝘨𝘢𝘳 𝘔𝘪𝘯𝘦𝘤𝘳𝘢𝘧𝘵 𝘺 𝘷𝘦𝘳 𝘱𝘦𝘭𝘪𝘤𝘶𝘭𝘢𝘴 𝘥𝘦 𝘵𝘦𝘳𝘳𝘰𝘳, 𝘯𝘰 𝘵𝘦𝘯𝘨𝘰 𝘮𝘶𝘤𝘩𝘰 𝘵𝘪𝘦𝘮𝘱𝘰 𝘤𝘰𝘮𝘰 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘢𝘥𝘰𝘳 𝘱𝘦𝘳𝘰 𝘵𝘦𝘯𝘨𝘰 𝘧𝘦 𝘦𝘯 𝘮𝘪 𝘮𝘪𝘴𝘮𝘰♥️
+<div align="center"><img src="https://img.shields.io/badge/HINATA--BOT-ff69b4?style=for-the-badge&logo=whatsapp&logoColor=white"/><img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250"/></div>Bot de WhatsApp desarrollado por LEONARDO, diseñado para ofrecer herramientas, comandos y funciones automatizadas.
 
-«⚡ Automatización • 🤖 Inteligencia • 📱 WhatsApp • 🚀 Desarrollo»
-
-</div>
-
----
-
-🤖 Mis Bots
-
-🌸 Hinata-Bot
-
-<div align="center"><img src="https://img.shields.io/badge/HINATA--BOT-ff69b4?style=for-the-badge&logo=whatsapp&logoColor=white"/></div>Bot de WhatsApp desarrollado por LEONARDO, diseñado para ofrecer diferentes herramientas, comandos y funciones automatizadas dentro de WhatsApp.
-
-Tecnologías principales:
+Tecnologías:
 
 - 🟢 Node.js
-- 📱 WhatsApp Multi-Device
 - ⚡ Baileys
-- 🛠️ JavaScript
+- 📱 WhatsApp Multi-Device
+- 🟨 JavaScript
 
 ---
 
-👹 Alastor-WA-Bot
+👹 ALASTOR-WA-BOT
 
-<div align="center"><img src="https://img.shields.io/badge/ALASTOR--WA--BOT-8A2BE2?style=for-the-badge&logo=whatsapp&logoColor=white"/></div>Bot de WhatsApp creado por LEONARDO, con una arquitectura orientada a automatización, comandos personalizados y herramientas multimedia.
+<div align="center"><img src="https://img.shields.io/badge/ALASTOR--WA--BOT-8A2BE2?style=for-the-badge&logo=whatsapp&logoColor=white"/><img src="https://media.giphy.com/media/3o7TKtd3y7U0uQY2w0/giphy.gif" width="250"/></div>Bot de WhatsApp creado por LEONARDO, con herramientas multimedia, comandos personalizados y automatización.
 
 Características:
 
 - 🤖 Sistema de comandos
-- 📥 Descargas y herramientas multimedia
+- 📥 Descargas multimedia
 - 🎵 Conversión de audio
 - 🖼️ Procesamiento de imágenes
 - 🎬 Procesamiento de vídeo
-- 👥 Funciones para grupos
-- ⚙️ Automatización de tareas
-- 📱 Compatible con WhatsApp Multi-Device
+- 👥 Herramientas para grupos
+- ⚙️ Automatización
+- 📱 WhatsApp Multi-Device
 
 ---
 
-🧰 Tecnologías
+⚙️ TECH STACK
 
-Tecnología| Uso
-🟢 Node.js| Motor principal
-⚡ Baileys| Conexión con WhatsApp
-🟨 JavaScript| Desarrollo del bot
-🎬 FFmpeg| Procesamiento multimedia
-🐙 Git| Control de versiones
-📱 WhatsApp| Plataforma principal
+<div align="center"><img src="https://skillicons.dev/icons?i=nodejs,js,git,github,vscode&theme=dark" /><br/><br/>
 
----
+<img src="https://img.shields.io/badge/Baileys-WhatsApp%20API-00FFE0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FFmpeg-Multimedia-007808?style=for-the-badge"/></div>---
 
-📊 Proyectos
+📊 MY PROJECTS
 
-<div align="center">🤖 Proyecto| 👨‍💻 Creador| 📅 Año
+<div align="center">🤖 PROJECT| 👨‍💻 CREATOR| 📅 YEAR
 🌸 Hinata-Bot| LEONARDO| 2026
 👹 Alastor-WA-Bot| LEONARDO| 2026
 
-</div>
+<br/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=00FFE0&center=true&vCenter=true&width=500&lines=Every+line+of+code+is+progress;Never+stop+learning+%E2%9A%A1" /></div>---
 
----
+🎮 MY INTERESTS
 
-💬 Comunidad
+<div align="center"><img src="https://img.shields.io/badge/PROGRAMMING-00FFE0?style=for-the-badge&logo=visualstudiocode&logoColor=black"/>
+<img src="https://img.shields.io/badge/MINECRAFT-55AA55?style=for-the-badge&logo=minecraft&logoColor=white"/>
+<img src="https://img.shields.io/badge/HORROR%20MOVIES-8A2BE2?style=for-the-badge&logo=ghost&logoColor=white"/>
+<img src="https://img.shields.io/badge/WHATSAPP%20BOTS-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></div>---
+
+🌐 COMMUNITY
 
 <div align="center"><a href="#">
-  <img src="https://img.shields.io/badge/Hinata--Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Hinata-Bot"/>
-</a> 
+<img src="https://img.shields.io/badge/🌸_HINATA--BOT-ff69b4?style=for-the-badge"/>
+</a><a href="#">
+<img src="https://img.shields.io/badge/👹_ALASTOR--WA--BOT-8A2BE2?style=for-the-badge"/>
+</a></div>---
 
-<a href="#">
-  <img src="https://img.shields.io/badge/Alastor--WA--Bot-8A2BE2?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Alastor-WA-Bot"/>
-</a></div><br/><div align="center">⚡ LEONARDO • BOT DEVELOPER • 2026 ⚡
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFE0,50:101020,100:FF00FF&height=120&section=footer" width="100%"/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&pause=1000&color=00FFE0&center=true&vCenter=true&width=600&lines=LEONARDO+%E2%9A%A1;WHATSAPP+BOT+DEVELOPER;MADE+WITH+%E2%9D%A4%EF%B8%8F+AND+CODE" />⚡ LEONARDO • BOT DEVELOPER • 2026 ⚡
 
-<img src="https://img.shields.io/badge/WhatsApp-Bot%20Developer-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></div>
-
----
-
-⭐ Sobre el proyecto
-
-
-Hinata-Bot y Alastor-WA-Bot representan dos proyectos independientes enfocados en ofrecer diferentes herramientas y sistemas automatizados para usuarios y comunidades de WhatsApp.
-
----
-
-<div align="center">Made with ⚡ by LEONARDO
-
-"2026 • WhatsApp Bot Developer"
-
-</div>
+<img src="https://img.shields.io/badge/THANKS%20FOR%20VISITING-00FFE0?style=for-the-badge"/></div>
