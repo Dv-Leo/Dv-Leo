@@ -62,7 +62,9 @@ Características:
 🌸 Hinata-Bot| LEONARDO| 2026
 👹 Alastor-WA-Bot| LEONARDO| 2026
 
-<br/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=00FFE0&center=true&vCenter=true&width=500&lines=Every+line+of+code+is+progress;Never+stop+learning+%E2%9A%A1" /></div>---
+<br/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=00FFE0&center=true&vCenter=true&width=500&lines=Every+line+of+code+is+progress;Never+stop+learning+%E2%9A%A1" /></div>
+
+---
 
 🎮 MY INTERESTS
 
@@ -77,7 +79,9 @@ Características:
 <img src="https://img.shields.io/badge/🌸_HINATA--BOT-ff69b4?style=for-the-badge"/>
 </a><a href="#">
 <img src="https://img.shields.io/badge/👹_ALASTOR--WA--BOT-8A2BE2?style=for-the-badge"/>
-</a></div>---
+</a></div>
+
+---
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFE0,50:101020,100:FF00FF&height=120&section=footer" width="100%"/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&pause=1000&color=00FFE0&center=true&vCenter=true&width=600&lines=LEONARDO+%E2%9A%A1;WHATSAPP+BOT+DEVELOPER;MADE+WITH+%E2%9D%A4%EF%B8%8F+AND+CODE" />⚡ LEONARDO • BOT DEVELOPER • 2026 ⚡
 
