@@ -73,7 +73,9 @@ Características:
 <div align="center"><img src="https://img.shields.io/badge/PROGRAMMING-00FFE0?style=for-the-badge&logo=visualstudiocode&logoColor=black"/>
 <img src="https://img.shields.io/badge/MINECRAFT-55AA55?style=for-the-badge&logo=minecraft&logoColor=white"/>
 <img src="https://img.shields.io/badge/HORROR%20MOVIES-8A2BE2?style=for-the-badge&logo=ghost&logoColor=white"/>
-<img src="https://img.shields.io/badge/WHATSAPP%20BOTS-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></div>---
+<img src="https://img.shields.io/badge/WHATSAPP%20BOTS-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></div>
+
+---
 
 🌐 COMMUNITY
 
