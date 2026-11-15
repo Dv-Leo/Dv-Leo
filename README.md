@@ -1,7 +1,9 @@
 <div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=45&pause=1000&color=00FFE0&center=true&vCenter=true&width=800&height=100&lines=LEONARDO+%F0%9F%A4%96;BOT+DEVELOPER;WHATSAPP+AUTOMATION;WELCOME+TO+MY+PROFILE" width="100%"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=FF00FF&center=true&vCenter=true&width=800&lines=Node.js+%E2%80%A2+Baileys+%E2%80%A2+JavaScript;Creating+the+future+with+bots;Code.+Automate.+Innovate." width="100%"/><img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:101020,100:00FFE0&height=3&section=header" width="100%"/><img src="https://img.shields.io/badge/CREATOR-LEONARDO-00FFE0?style=for-the-badge&logo=github&logoColor=black"/>
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF88?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/YEAR-2026-FF00FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/WHATSAPP-BOT%20DEVELOPER-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></div>---
+<img src="https://img.shields.io/badge/WHATSAPP-BOT%20DEVELOPER-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></div>
+
+---
 
 <div align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>👨‍💻 ABOUT ME
 
