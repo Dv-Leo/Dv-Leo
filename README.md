@@ -54,7 +54,9 @@ Características:
 <div align="center"><img src="https://skillicons.dev/icons?i=nodejs,js,git,github,vscode&theme=dark" /><br/><br/>
 
 <img src="https://img.shields.io/badge/Baileys-WhatsApp%20API-00FFE0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FFmpeg-Multimedia-007808?style=for-the-badge"/></div>---
+<img src="https://img.shields.io/badge/FFmpeg-Multimedia-007808?style=for-the-badge"/></div>
+
+---
 
 📊 MY PROJECTS
 
